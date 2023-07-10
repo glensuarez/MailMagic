@@ -1,0 +1,5 @@
+# MailMagic Azure Communication Services ✉️💫
+
+MailMagic is an application developed in C#. The application enables the sending of emails ✉️ through Azure Communication Services using the Email API. It leverages an Excel file 📂 as a data source to retrieve the recipient list. The application seamlessly integrates with Azure to ensure efficient and reliable email delivery. It serves as a valuable solution for sending bulk emails to a group of recipients obtained from an Excel file, simplifying effective communication with users in an automated fashion.
+
+"MailMagic es una aplicación  desarrollada en C# utilizando. La aplicación permite enviar correos electrónicos ✉️ a través de Azure Communication Services utilizando la API de correo electrónico. Utiliza un archivo Excel 📂 como fuente de datos para obtener la lista de destinatarios. La aplicación se integra con Azure para gestionar de manera eficiente y confiable el envío de correos electrónicos, facilitando la comunicación efectiva y automatizada con los usuarios. ✨
